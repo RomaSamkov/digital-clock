@@ -50,14 +50,13 @@ body {
   font-family: var(--userfont);
   font-size: var(--regular-text);
   line-height: var(--lineheight);
-  color: var(--text);
+  /* color: var(--text);
   min-width: 320px;
   position: relative;
-  overflow-x: hidden;
+  overflow-x: hidden; */
 }
 
 body,
 html {
   height: 100%;
 }
-
