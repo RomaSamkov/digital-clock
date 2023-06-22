@@ -103,3 +103,13 @@ body {
     inset -5px -5px 15px rgba(0, 0, 0, 0.75);
   margin-bottom: 30px;
 }
+
+.clock::before {
+  content: '';
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: #2f363e;
+  border: 3px solid #fff;
+  border-radius: 50%;
+}
