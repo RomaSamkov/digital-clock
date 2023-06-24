@@ -214,13 +214,13 @@ body {
   right: -4px;
 }
 
-#time div:last-child {
+/* #time div:last-child {
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 0.5em;
   color: #fff;
-}
+} */
 
 #time div:nth-child(2)::after {
   animation: animate 1s steps(1) infinite;
